@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://infinite-mohit.vercel.app/](My Portfolio)
+- 👨‍💻 All of my projects are available at [https://infinite-mohit.vercel.app/](https://infinite-mohit.vercel.app/)
 
 - 📫 How to reach me **mohitkh22@gmail.com**
 
