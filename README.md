@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Alice&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohit+Kholiya!;" />
 </h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3><br>
-<img align="right" height="250" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
+<img align="right" height="260" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
 <p align="left"> I am a passionate and dedicated frontend developer with a keen eye for detail and a commitment to creating exceptional user experiences. With a solid foundation in web technologies and a flair for design, I bring a unique blend of technical expertise and creative insight to every project.</p><br>
 
 - 🔭 I’m currently working on **Blockchain**
