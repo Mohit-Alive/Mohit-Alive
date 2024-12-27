@@ -3,6 +3,9 @@
 </h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3><br>
 
+<p>As a Passionate computer science student, I thrive on turning innovative ideas into tangible solutions. Proficient in JavaScript, Python, C, and C++, I possess a strong foundation in front-end and working on my back-end development. 
+</p>
+
 - 📫 How to reach me **mohitkh22@gmail.com**
 
 
