@@ -28,7 +28,7 @@ Passionate about tech that feels human—no jargon, no clutter. Just smart solut
 
 ---
 ### 📊 GitHub Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-alive&" alt="mohit-alive" /></p>
+[![GitHub Streak](https://github-readme-streak-stats-sage-tau.vercel.app?user=mohit-alive)](https://git.io/streak-stats)
 
 <a href="https://github.com/mohit-alive/github-stats-transparent">
 
