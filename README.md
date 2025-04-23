@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Alice&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohit+Kholiya!;" />
 </h1>
 
+---
+### About Me
 <p>Curious builder with a love for code that does things. Not the kind to just write lines—I craft tools that make life smoother, faster, or a little more fun.
 
 Think of me as that friend who sees a problem and starts scribbling wireframes on a napkin. JavaScript? React? Python? They’re my paintbrushes. Whether it’s breathing life into a static webpage or tinkering with AI’s "what-ifs," I’m happiest when turning "Hmm, how?" into "Oh, that’s how."
@@ -28,9 +30,9 @@ Passionate about tech that feels human—no jargon, no clutter. Just smart solut
 
 ---
 ### 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats-sage-tau.vercel.app?user=mohit-alive)](https://git.io/streak-stats)
-
-<a href="https://github.com/mohit-alive/github-stats-transparent">
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sage-tau.vercel.app?user=mohit-alive" alt="GitHub Streak" /></a>
+</div>
 
 ![](https://raw.githubusercontent.com/mohit-alive/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/mohit-alive/github-stats-transparent/output/generated/languages.svg)
