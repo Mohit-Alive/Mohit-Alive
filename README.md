@@ -31,7 +31,7 @@ Passionate about tech that feels human—no jargon, no clutter. Just smart solut
 ---
 ### 🔥 My Contribution Streak
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sage-tau.vercel.app?user=mohit-alive" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sage-tau.vercel.app?user=Mohit-Alive" alt="GitHub Streak" /></a>
 </div>
 
 ---
