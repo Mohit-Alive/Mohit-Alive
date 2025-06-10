@@ -11,7 +11,7 @@ Think of me as that friend who sees a problem and starts scribbling wireframes o
 Passionate about tech that feels human—no jargon, no clutter. Just smart solutions hiding behind a click or a swipe. Let’s swap ideas, break a few bugs, and build stuff that matters.
 </p>
 
-- 📫 How to reach me **mohitkh22@gmail.com**
+- 📫 How to reach me **mohitkh22@gmail.com** 
 
 ---
 ### 🛠️ Technologies & Tools
