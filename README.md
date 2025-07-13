@@ -39,3 +39,7 @@ Passionate about tech that feels human—no jargon, no clutter. Just smart solut
 ### 📊 GitHub Stats
 ![](https://raw.githubusercontent.com/mohit-alive/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/mohit-alive/github-stats-transparent/output/generated/languages.svg)
+
+
+### ⛩ My Contribution Graph
+[![Mohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohit-Alive&bg_color=010409&color=ffffff&line=00b344&point=ffffff&area=true&hide_border=true)](https://github.com/Mohit-Alive/github-readme-activity-graph)
