@@ -2,10 +2,6 @@
   <img src="https://github.com/Mohit-Alive/Mohit-Alive/blob/main/banner.png" />
 </h1>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Alice&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohit+Kholiya!;" />
-</h1>
-
 ---
 ### 🚀 About Me
 <p>Curious builder with a love for code that does things. Not the kind to just write lines, I craft tools that make life smoother, faster, or a little more fun.
