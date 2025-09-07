@@ -4,11 +4,11 @@
 
 ---
 ### 🚀 About Me
-<p>Curious builder with a love for code that does things. Not the kind to just write lines—I craft tools that make life smoother, faster, or a little more fun.
+<p>Curious builder with a love for code that does things. Not the kind to just write lines, I craft tools that make life smoother, faster, or a little more fun.
 
-Think of me as that friend who sees a problem and starts scribbling wireframes on a napkin. JavaScript? React? Python? They’re my paintbrushes. Whether it’s breathing life into a static webpage or tinkering with AI’s "what-ifs," I’m happiest when turning "Hmm, how?" into "Oh, that’s how."
+Think of me as that friend who sees a problem and starts scribbling wireframes on a napkin. JavaScript? React? Python? They’re my paintbrushes. Whether it’s breathing life into a static webpage or tinkering with AI’s "what ifs," I’m happiest when turning "Hmm, how?" into "Oh, that’s how."
 
-Passionate about tech that feels human—no jargon, no clutter. Just smart solutions hiding behind a click or a swipe. Let’s swap ideas, break a few bugs, and build stuff that matters.
+Passionate about tech that feels human no jargon, no clutter. Just smart solutions hiding behind a click or a swipe. Let’s swap ideas, break a few bugs, and build stuff that matters.
 </p>
 
 - 📫 How to reach me **mohitkh22@gmail.com** 
