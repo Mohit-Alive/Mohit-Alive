@@ -28,12 +28,6 @@ Passionate about tech that feels human no jargon, no clutter. Just smart solutio
 
 </div>
 
----
-### 🔥 My Contribution Streak
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Mohit-Alive" alt="GitHub Streak" /></a>
-<!--   [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) -->
-</div>
 
 ---
 ### 📊 GitHub Stats
