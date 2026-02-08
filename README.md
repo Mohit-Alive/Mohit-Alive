@@ -3,15 +3,22 @@
 </h1>
 
 ---
-### 🚀 About Me
-<p>Curious builder with a love for code that does things. Not the kind to just write lines, I craft tools that make life smoother, faster, or a little more fun.
 
-Think of me as that friend who sees a problem and starts scribbling wireframes on a napkin. JavaScript? React? Python? They’re my paintbrushes. Whether it’s breathing life into a static webpage or tinkering with AI’s "what ifs," I’m happiest when turning "Hmm, how?" into "Oh, that’s how."
+## Current Projects
 
-Passionate about tech that feels human no jargon, no clutter. Just smart solutions hiding behind a click or a swipe. Let’s swap ideas, break a few bugs, and build stuff that matters.
-</p>
 
-- 📫 How to reach me **mohitkh22@gmail.com** 
+- 📖 **[StudyMate-Bot](https://github.com/Mohit-Alive/StudyMate-Bot)** - AI Telegram assistant for quizzes, summaries, study plans, and 8,000+ interview questions
+- 📧 **[Mailzap](https://github.com/Mohit-Alive/Mailzap)** - Chrome extension to declutter Gmail with one-click bulk unsubscribe, delete, and block
+- 🔍 **[Wordlens-Extension](https://github.com/Mohit-Alive/Wordlens-Extension)** - Browser extension for instant word definitions, pronunciation, and etymology
+- 🚗 **[Self-Driving-Car](https://github.com/Mohit-Alive/Self-Driving-Car)** - Self-driving car simulation with neural network implemented in vanilla JavaScript
+- 🎨 **[Anime-Walls](https://github.com/Mohit-Alive/Anime-Walls)** - Stunning 3D image slider effects using CSS only with eye-catching animations and depth
+- ⏱️ **[YouTube-Playlist-Duration](https://github.com/Mohit-Alive/YouTube-Playlist-Duration)** - Calculate total duration of any YouTube playlist with optional video range selection
+- ✅ **[Habit-Tracker](https://github.com/Mohit-Alive/Habit-Tracker)** - Build lasting habits with streaks, completion rates, heatmaps, and category breakdowns
+- 💰 **[Infinite-Crypto](https://github.com/Mohit-Alive/Infinite-Crypto)** - Real-time cryptocurrency tracking and analysis platform with detailed insights
+- 📝 **[Javascript-Notes](https://github.com/Mohit-Alive/Javascript-Notes)** - Comprehensive JavaScript notes with concepts, examples, and explanations
+- 📰 **[Nerd-Nexus](https://github.com/Mohit-Alive/Nerd-Nexus)** - Modern blog platform built with React and Tailwind CSS with admin panel and commenting
+- 🔴 **[Pokedex](https://github.com/Mohit-Alive/Pokedex)** - Responsive Pokedex web app powered by PokeAPI showcasing Pokémon and their attacks
+- 📓 **[Python-Notes](https://github.com/Mohit-Alive/Python-Notes)** - Comprehensive Python programming notes from basic syntax to advanced concepts
 
 ---
 ### 🛠️ Technologies & Tools
