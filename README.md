@@ -6,10 +6,10 @@
 
 ## Current Projects
 
-- 🧭 **[Pathway](https://github.com/Mohit-Alive/Pathway)** - AI learning platform that turns a short questionnaire into a personalized CS roadmap with courses, graded quizzes, and progress metrics · [Live](https://pathway-sepia-beta.vercel.app)
-- 🧠 **[Recode](https://github.com/Mohit-Alive/Recode)** - Spaced repetition for coding interview prep that schedules LeetCode re-solves with FSRS right before you forget · [Live](https://recode-ten-omega.vercel.app)
+- 🧭 **[Pathway](https://github.com/Mohit-Alive/Pathway)** - AI learning platform that turns a short questionnaire into a personalized CS roadmap with courses, graded quizzes, and progress metrics
+- 🧠 **[Recode](https://github.com/Mohit-Alive/Recode)** - Spaced repetition for coding interview prep that schedules LeetCode re-solves with FSRS right before you forget
 - 🎬 **[Explainer-Studio](https://github.com/Mohit-Alive/explainer-studio)** - Make animated YouTube explainers with Claude Code in your own style and voice, with every visual synced to your words
-- 🕯️ **[The-Last-Night](https://github.com/Mohit-Alive/The-Last-Night)** - First-person browser survival horror where the Warden hunts you by sound and light, with everything generated at runtime · [Play](https://thelastnight-rouge.vercel.app)
+- 🕯️ **[The-Last-Night](https://github.com/Mohit-Alive/The-Last-Night)** - First-person browser survival horror where the Warden hunts you by sound and light, with everything generated at runtime
 - 📑 **[Md-View](https://github.com/Mohit-Alive/Md-View)** - Desktop Markdown viewer for Omarchy that renders files the way GitHub does, in your theme, with live reload
 - 📄 **[Readme-To-Pdf](https://github.com/Mohit-Alive/Readme-To-Pdf)** - Full-stack web application to convert Markdown / README files into beautifully styled PDFs
 - 📖 **[StudyMate-Bot](https://github.com/Mohit-Alive/StudyMate-Bot)** - AI Telegram assistant for quizzes, summaries, study plans, and 8,000+ interview questions
